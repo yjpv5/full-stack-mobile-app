@@ -1,0 +1,10 @@
+.btn:hover {
+  background-color: blue !important;
+}
+.message {
+    background-color: red;
+    color: #fff;
+    padding: 5px 10px;
+    visibility: hidden;
+    font-weight: bold;
+}
